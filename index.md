@@ -1,3 +1,12 @@
+# **Aditya Tripathy's First CS193 Homework**
+_Favourite things about CS193-_
+- No exams
+- Course leads Arya and Caleb are really sweet and supportive
+- The course makes me enjoy coding
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,13 +20,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# **Aditya Tripathy's First CS193 Homework**
+# Header 1
 ## Header 2
-### _Favourite things about CS193-_
+### Header 3
 
-- No exams
-- Course leads Arya and Caleb are really sweet and supportive
-- The course makes me enjoy coding
+- Bulleted
+- List
 
 1. Numbered
 2. List
